@@ -10,7 +10,7 @@ Clone the repository:
 
 cd ~/catkin_ws/src
 
-git clone https://github.com/coolcoolier/Mini-Multi-agent-System.git
+git clone https://github.com/coolcoolier/multi_agent.git
 
 cd ..
 
