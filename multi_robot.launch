@@ -1,0 +1,10 @@
+<launch>
+
+    <node pkg="multi_agent" type="node_mini_factory_server" name="node_mini_factory_server" output="screen">
+    </node>
+    <node pkg="multi_agent" type="node_robot_1" name="node_robot_1" output="screen">
+    </node>
+    <node pkg="multi_agent" type="node_robot_2" name="node_robot_2" output="screen">
+    </node>
+
+</launch>
